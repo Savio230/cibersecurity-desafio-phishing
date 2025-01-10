@@ -14,8 +14,8 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: https://academy.cloudtreinamentos.com/login/index.php
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Imagem do WhatsApp de 2025-01-10 à(s) 09 50 35_bf8371d7](https://github.com/user-attachments/assets/383d47d8-b134-49da-a6b0-b2fb45d0eb1c)
